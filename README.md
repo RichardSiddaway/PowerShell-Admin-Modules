@@ -9,13 +9,21 @@ The admin modules will be supplied over time. The module name describes the area
 The modules should be positioned on your module path and loaded with 
 
 Import-Module PAMADSNAPHSOT
+
 Import-Module PAMDisks
+
 Import-Module PAMEnv
+
 Import-Module PAMHostsFile
+
 Import-Module PAMMath
+
 Import-Module PAMRestorePoint
+
 Import-Module PAMShares
+
 Import-Module PAMStability
+
 Import-Module PAMSysInfo
 
 respectively.
